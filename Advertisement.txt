@@ -1,0 +1,4 @@
+Table;Dining Table;150;Furniture;Big;Pickup On Campus;New;2022-10-18 23:33:03
+Chair;Recliner made of leather;300;Furniture;Big;Pickup On Campus;New;2022-10-18 23:34:09
+Books;Extra books;25;Textbook;Arts;Pickup Off Campus;Used;2022-10-18 23:35:38
+random stuff;just random items;10;Miscellaneous; ;Pickup Off Campus;Used;2022-10-18 23:36:16
